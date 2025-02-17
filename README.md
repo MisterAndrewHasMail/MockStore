@@ -1,6 +1,6 @@
 # MockStore
 
-https://andrewteamtree.github.io/MockStore/
+(https://misterandrewhasmail.github.io/MockStore/)
 
 if zip downloaded and lauching from folder
 For Python 3.x, run:
